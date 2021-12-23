@@ -18,6 +18,8 @@ XData ProductionDefinition
   </Item>
   <Item Name="BS.ServiceVoiture" Category="" ClassName="BS.ServiceVoiture" PoolSize="0" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule="">
   </Item>
+  <Item Name="BP.ProcessusReservation" Category="" ClassName="BP.ProcessusReservation" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule="">
+  </Item>
 </Production>
 }
 
