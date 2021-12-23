@@ -31,7 +31,7 @@ XData MessageMap
 {
 <MapItems>
     <MapItem MessageType="msg.pushVoitureFileDmde">
-        <Method>creerVoitureFichier</Method>
+        <Method>pushVoitureFile</Method>
     </MapItem>
 </MapItems>
 }
